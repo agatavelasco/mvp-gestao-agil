@@ -11,47 +11,30 @@ Nosso produto prioriza cadastro de clientes, histórico de serviços, agenda e r
 
 Visão Geral
 
-O Tropi ajuda profissionais e pequenos negócios a centralizar cadastros, registrar plantas e ambientes, planejar atendimentos (visitas/manutenções) e manter histórico claro para cada cliente.
-
-Casos de uso típicos
-
-Cadastrar cliente e endereço(s)
-
-Cadastrar plantas e anexar fotos/observações
-
-Abrir atendimento (visita), registrar serviços e insumos
-
-Visualizar agenda e histórico por cliente/ambiente
-
-Acompanhar status de atendimento (aberto, concluído, reagendado)
+- O Tropi ajuda profissionais e pequenos negócios a centralizar cadastros, registrar plantas e ambientes, planejar atendimentos (visitas/manutenções) e manter histórico claro para cada cliente.
+- Casos de uso típicos
+- Cadastrar cliente e endereço(s)
+- Cadastrar plantas e anexar fotos/observações
+- Abrir atendimento (visita), registrar serviços e insumos
+- Visualizar agenda e histórico por cliente/ambiente
+- Acompanhar status de atendimento (aberto, concluído, reagendado)
 
 Principais Recursos
 
-Clientes & Contatos: dados, múltiplos endereços, preferências.
-
-Plantas & Ambientes: espécies, condições de luz/rega, fotos.
-
-Atendimentos: criação rápida, checklist, materiais usados, preço.
-
-Agenda: visão por dia/semana, filtro por técnico/cliente.
-
-Histórico: linha do tempo por cliente e por planta.
+- Clientes & Contatos: dados, múltiplos endereços, preferências.
+- Plantas & Ambientes: espécies, condições de luz/rega, fotos.
+- Atendimentos: criação rápida, checklist, materiais usados, preço.
+- Agenda: visão por dia/semana, filtro por técnico/cliente.
+- Histórico: linha do tempo por cliente e por planta.
 
 
 Escopo do MVP
 
- Cadastro de clientes
-
- Cadastro de plantas vinculado ao cliente/ambiente
-
- Criação e edição de atendimentos
-
- Agenda simples com filtro por data/status
-
- Histórico por cliente
-
- Upload de imagens (otimização e galeria) <!-- TODO -->
-
- Relatórios iniciais (CSV export) <!-- TODO -->
-
- Notificações/lembranças (e-mail/WhatsApp) <!-- TODO: decidir canal -->
+-  Cadastro de clientes
+-  Cadastro de plantas vinculado ao cliente/ambiente
+-  Criação e edição de atendimentos
+-  Agenda simples com filtro por data/status
+-  Histórico por cliente
+-  Upload de imagens (otimização e galeria) <!-- TODO -->
+-  Relatórios iniciais (CSV export) <!-- TODO -->
+-  Notificações/lembranças (e-mail/WhatsApp) <!-- TODO: decidir canal -->
