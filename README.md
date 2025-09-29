@@ -21,8 +21,8 @@ Visão Geral
 
 Principais Recursos
 
-- Clientes & Contatos: dados, múltiplos endereços, preferências.
-- Plantas & Ambientes: espécies, condições de luz/rega, fotos.
+- Clientes e Contatos: dados, múltiplos endereços, preferências.
+- Plantas e Ambientes: espécies, condições de luz/rega, fotos.
 - Atendimentos: criação rápida, checklist, materiais usados, preço.
 - Agenda: visão por dia/semana, filtro por técnico/cliente.
 - Histórico: linha do tempo por cliente e por planta.
